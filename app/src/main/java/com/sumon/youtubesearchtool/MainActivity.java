@@ -14,7 +14,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
 
     final static String SEARCH_PARAM = "songs";
-    final static String API_KEY = "AIzaSyD_DgMtu3K84wYBGcn0xx59gvvRhCwxXM4";
+    final static String API_KEY = "your api key";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
